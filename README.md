@@ -29,10 +29,9 @@
 
 | Repo | Description |
 |------|-------------|
-| 🔐 [zero-trust-homelab](https://github.com/MustafaTuzsuz) | Proxmox + Netbird Zero Trust architecture |
-| ☁️ [aws-automation-scripts](https://github.com/MustafaTuzsuz) | EC2, S3, IAM automation with Python & Bash |
-| 🔎 [soc-lab-scenarios](https://github.com/MustafaTuzsuz) | Wireshark analysis & incident response simulations |
-
+| 🔐 [zero-trust-homelab](https://github.com/MustafaTuzsuz/zero-trust-homelab) | Proxmox + Netbird Zero Trust architecture — live production workloads |
+| ☁️ [aws-automation-scripts](https://github.com/MustafaTuzsuz/aws-automation-scripts) | EC2, S3, IAM automation with Python (boto3) & Bash |
+| 🔎 [soc-lab-scenarios](https://github.com/MustafaTuzsuz/soc-lab-scenarios) | Wireshark traffic analysis & incident response simulations |
 ---
 
 ## 📫 Contact
