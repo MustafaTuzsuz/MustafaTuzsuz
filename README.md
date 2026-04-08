@@ -1,6 +1,6 @@
 # Hi, I'm Mustafa Talha Tuzsuz 👋
 
-**Junior Cybersecurity & Cloud Engineer** based in Dublin, Ireland 🇮🇪
+**Computer Science Student** based in Dublin, Ireland 🇮🇪
 
 ---
 
